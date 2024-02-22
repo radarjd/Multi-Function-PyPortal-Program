@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*__
+
+dist/
+build/
+.unison/
+docs/index.html
+docs/index.zip
+secrets.py
